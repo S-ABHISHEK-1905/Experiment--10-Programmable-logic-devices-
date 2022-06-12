@@ -32,8 +32,8 @@ Figure -01 PROM
 ### PROGRAM 
 ~~~
 Program for PROM 
-Developed by: SYED MUHAMMED ZAHI
-RegisterNumber: 212221230114
+Developed by: S.ABHISHEK
+RegisterNumber: 212221230002
 ~~~
 ~~~
 module ROM_code(out, addr, CS);
